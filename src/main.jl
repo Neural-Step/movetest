@@ -28,7 +28,11 @@ end
 function moreMath(a, b, c)
     return sum(a, b, c)
 end
-
+function someTest(checker::Bool)
+    if checker
+        print("Hey Its true")
+    end
+end
 
 
 end
