@@ -25,6 +25,10 @@ function someOutput(a::Int)
     end
 end
 
-
+function someTest(checker::Bool)
+    if checker
+        print("Hey Its true")
+    end
+end
 
 end
