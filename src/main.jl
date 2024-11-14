@@ -25,6 +25,10 @@ function someOutput(a::Int)
     end
 end
 
+function moreMath(a, b, c)
+    return sum(a, b, c)
+end
+
 
 
 end
