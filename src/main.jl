@@ -21,7 +21,7 @@ function helloHell(n:Int)
 end
 function someOutput(a::Int)
     for i in 1:a
-        print("Hello Bum Bum")
+        print("Hello this is great here")
     end
 end
 
