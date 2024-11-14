@@ -14,6 +14,11 @@ function addtwonumbers(a::Float64, b::Float64)
     a + b
 end
 
+function helloHell(n:Int)
+    for i in 1:n
+        println("Hello Hell")
+    end
+end
 
 
 end
